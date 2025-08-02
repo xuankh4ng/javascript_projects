@@ -4,4 +4,4 @@ All my JavaScript Projects while learning it.
 ## Final Result
 ### 1. Random Password Generator
 
-[![Demo Video](https://img.youtube.com/vi/mo-LAvqbgD8/0.jpg)](https://www.youtube.com/watch?v=mo-LAvqbgD8)
+https://github.com/user-attachments/assets/3aade248-3d1b-43bd-aaf5-8c2fb893588d
